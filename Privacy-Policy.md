@@ -1,4 +1,4 @@
-# Secured Bot Privacy Policy
+# Anagha Bot Privacy Policy
 
 **Effective: June 4, 2024**
 
@@ -33,4 +33,4 @@ Secured Bot is committed to protecting your privacy. This policy explains how we
 * You can control your privacy settings through our bot's features.
 * You can request to delete your information at any time.
 
-By using Secured Bot, you agree to this privacy policy. If you have any questions or concerns, please contact us.
+By using Anagha Bot, you agree to this privacy policy. If you have any questions or concerns, please contact us.
